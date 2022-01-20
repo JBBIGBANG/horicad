@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.matuya.horicad">
+
+    <!-- Include required permissions for Google Mobile Ads to run. -->
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <supports-screens
+        android:anyDensity="true"
+        android:largeScreens="true"
+        android:normalScreens="true"
+        android:smallScreens="true"
+        android:xlargeScreens="true" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/horicad"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name="com.matuya.horicad.AddMob"
+            android:label="@string/title_activity_add_mob"></activity>
+        <!-- Include the AdActivity configChanges and theme. -->
+        <activity
+            android:name="com.google.android.gms.ads.AdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:theme="@android:style/Theme.Translucent" />
+        <activity
+            android:name="com.matuya.horicad.newActivity"
+            android:screenOrientation="portrait" />
+        <activity android:name="com.matuya.horicad.Developer" />
+        <activity android:name="com.matuya.horicad.gg" />
+        <activity android:name="com.matuya.horicad.MatuyaDhormoProcar" />
+        <activity android:name="com.matuya.horicad.Gan" />
+        <activity android:name="com.matuya.horicad.OmulloGanlist" />
+        <activity android:name="com.matuya.horicad.Omullo" />
+        <activity android:name="com.matuya.horicad.GurucadThakur" />
+        <activity android:name="com.matuya.horicad.HoricadThakur" />
+        <activity android:name="com.matuya.horicad.Mohautsob" />
+        <activity android:name="com.matuya.horicad.HoriSongit" />
+        <activity android:name="com.matuya.horicad.dhormoprocar" />
+        <activity android:name="com.matuya.horicad.Jibonkahini" />
+        <activity android:name="com.matuya.horicad.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+
+        </activity>
+        <!-- Sample AdMob App ID: ca-app-pub-3940256099942544~3347511713 -->
+        <meta-data
+            android:name="com.google.android.gms.ads.APPLICATION_ID"
+            android:value="ca-app-pub-1628835868187039~6690540129"/>
+    </application>
+
+</manifest>

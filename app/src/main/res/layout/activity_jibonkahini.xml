@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0C0000"
+    tools:context=".Jibonkahini">
+
+    <ImageView
+        android:id="@+id/image1"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_marginTop="110dp"
+        android:src="@drawable/horicad" />
+    <ImageView
+        android:id="@+id/image2"
+        android:layout_width="80dp"
+        android:layout_height="100dp"
+        android:layout_below="@id/image1"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/gurucad" />
+
+    <Button
+        android:id="@+id/b_horicad"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text="হরিচাঁদ ঠাকুর "
+        android:textSize="20dp"
+        android:layout_marginLeft="80dp"
+        android:layout_marginTop="135dp"
+        />
+    <Button
+        android:id="@+id/b_goracad"
+        android:layout_width="350dp"
+        android:layout_height="wrap_content"
+        android:text=" গুরুচাঁদ ঠাকুর"
+        android:textSize="20dp"
+        android:layout_marginLeft="80dp"
+        android:layout_below="@id/b_horicad"
+        android:layout_marginTop="100dp"
+        />
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-1628835868187039/3504251381">
+    </com.google.android.gms.ads.AdView>
+
+
+</RelativeLayout>

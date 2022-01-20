@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".HoriSongit">
+
+    <TextView
+        android:id="@+id/ddd"
+        android:layout_width="match_parent"
+        android:layout_height="150dp"
+        android:text="সংগীত বইয়ের নামের তালিকা"
+
+        android:paddingLeft="30dp"
+
+        android:textSize="40dp"
+        android:textColor="#fbfcfc"
+        android:background="#17202a"
+        />
+
+
+
+    <ListView
+        android:id="@+id/listView"
+        android:layout_width="fill_parent"
+        android:layout_below="@id/ddd"
+        android:layout_height="580dp"
+        android:background="#fdfefe"
+        android:divider="#0a0808"
+        android:dividerHeight="1dp"
+        android:listSelector="#76d7c4 "
+        android:cacheColorHint="#00000000"
+
+        />
+    <com.google.android.gms.ads.AdView
+        xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-1628835868187039/5008904743">
+    </com.google.android.gms.ads.AdView>
+
+</RelativeLayout>

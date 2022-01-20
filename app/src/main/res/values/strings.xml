@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name"> মতুয়া মাহাত্ম্য </string>
+    <string name="developer">Developer</string>
+
+    //sob gan er jonno ,, horisongit
+    <string-array name="array_technology">
+        <item>মহা সংকীর্তন (তারকচন্দ্র সরকার) </item>
+        <item> বীণাপাণি ভাবাঞ্জলি (শ্রীমৎ অমূল্য গোস্বামী)</item>
+        <item>হরি সঙ্গীত (শ্রী অশ্বিনী কুমার সরকার) </item>
+        <item>শ্রী শ্রী হরিভক্ত সঙ্গীত (শ্রীমৎ বিনোদ গোস্বামী) </item>
+        <item> শ্রীশ্রীহরিলীলামৃত (আদি খণ্ড)</item>
+        <item>শ্রীশ্রী হরির ভাব সংকীর্ত্তন(শ্রী দীনবন্ধু ঠাকুর) </item>
+        <item>গুরুচাঁদ চরিত</item>
+
+
+    </string-array>
+
+    <string-array name="Gan0">
+        <item>ভজরে আমার মন </item>
+        <item>পাগলের ডঙ্কা বাজে হরিচাঁদ বলে </item>
+        <item>হরি বল হরি বল</item>
+        <item>চল ভাই চলরে  </item>
+        <item>হরে কৃষ্ণ হরি বল</item>
+        <item> এক গোলক ত্যাজে  </item>
+        <item>যদি ধরবি ভব </item>
+        <item>গৌর রিপুর বসে </item>
+        <item>ধরগে এবারে মানুষ </item>
+        <item>হরি বলরে মন  </item>
+        <item>বার দাঁড়াও এসে বিনোদ বেশে</item>
+        <item>তোরা কে যাবি </item>
+        <item>সখি এলো এক</item>
+        <item>আমার মন নিল </item>
+        <item>সখীরে গোপীর </item>
+        <item> তোরা কেন গৌর </item>
+        <item>আমার অন্তর </item>
+        <item>কাদিলে কি গৌর </item>
+        <item>সইরে সই এত</item>
+        <item>ওগো প্রান সজনী </item>
+
+    </string-array>
+    <string-array name="Gan1">
+        <item>প্রভাতী</item>
+        <item>এলো ভব পারের গাড়ী,ওড়াকান্দির গাঁয়</item>
+        <item>হরিবল, হরিবল,হরিবল বল </item>
+        <item>ওগো হরি দয়াময়, ডাকলে তোমায় পায় </item>
+        <item>সব কিছু আজ তোমায় দিলাম </item>
+        <item>ও দীন বন্ধুরে-ভবে আর আমার নালিশের জায়গা নাই </item>
+        <item>আয় ছুটে আয়,সব মিলে ওড়াকান্দি যাই</item>
+        <item>কোন দিনে আসিবে হরি ভাবি শুধু বসিয়া</item>
+        <item>গৌর আমায় পাগল করেছে</item>
+        <item>মায়া নদীর পারে যাবি হরি বলে দে সাঁতার</item>
+    </string-array>
+    <string-array name="Gan2">
+        <item> ভজরে আমার মন, ভজ প্রভু হরিচন্দ্র</item>
+        <item> জয় জগদ্বন্ধু করুণাসিন্ধু যশোমন্ত নন্দন হরি</item>
+        <item> প্রাণমতি শুকশারী পোহাল শর্বরী, শ্রীহরিমঙ্গল গাও হে </item>
+        <item> জয় হরি শ্রীহরিচাঁদের জয়</item>
+        <item> আনন্দে লওরে মধুর হরিনাম</item>
+        <item> প্রেম অনুরাগ ভক্তি বিবেক করলে আশ্রয়</item>
+        <item> নমঃ গুরুচন্দ্র নমঃ তমঃ বিমোচন</item>
+        <item> কর নামামৃত পান, কর হরি নামামৃত পান</item>
+        <item> শ্রীধাম ওড়াকান্দি যাবি যদি গৌণ করো না</item>
+        <item> গুরুর প্রতি প্রেমভক্তি ভ্রান্ত মন তোর কেন হল না</item>
+        <item> হরিবল বলরে একবার নেশা ছুটবে নাগো আর</item>
+        <item> সংসার সাগর রূপে ভাই মানব মীন সেজেছে</item>
+        <item> যদি যাবি ওপার, কর শ্রীগুরু কান্ডারী</item>
+        <item> ওড়াকান্দি প্রেম বারুণী প্রেমের মেলা দেখসে আয়</item>
+        <item>হরিনাম বলরে একান্তে</item>
+
+
+    </string-array>
+    <string-array name="Gan3">
+        <item>জয় জয় হরিচাঁদ পতিত পাবন</item>
+        <item>এস হে শ্রীহরি আমার প্রাণের দেবতা</item>
+        <item>আমার হৃদ মন্দিরে দাও হে দেখা হরিচাঁদ</item>
+        <item>একখান নিখুঁত প্রেমের ছবি এলো ওড়াকান্দি গাঁয়।</item>
+        <item>হল ওড়াকান্দি অবতীর্ণ মানুষ রতন</item>
+        <item>মুখে হরিচাঁদ বলে ডাকরে মন</item>
+        <item>আমার গুরুচাঁদের রূপের ছবি দেখবি যদি আয়</item>
+        <item>আমার হরিচাঁদের প্রিয় ভক্ত হীরামন </item>
+        <item>আমার হরিচাঁদের লীলা খেলা বোঝা দায় </item>
+        <item>আমার তারকচাঁদের নাম নিলে হয় প্রেমের উদয়। </item>
+
+
+    </string-array>
+    <string-array name="Gan4">
+        <item>বন্দনা </item>
+        <item>মাধুর্যের মধ্যে নাই সন্ন্যাসের ধর্ম</item>
+        <item>শোষিব শোষিব প্রেম প্রকৃতি হইয়া</item>
+        <item>বৈষ্ণবের কুটিনাটি  খণ্ডন কারণ।</item>
+        <item>নবদ্বীপ আসি গোরা জীব উদ্ধারিল</item>
+        <item>গৌর-ভক্ত- খেদ ও দৈবাদেশ</item>
+        <item>অবতার অনুক্রম, যশোমন্ত ঠাকুর</item>
+        <item>পাষণ্ড দলনে আছে বহুত প্রমাণ</item>
+
+    </string-array>
+    <string-array name="Gan5">
+        <item>ডুবল দিনমণি এল রজনী</item>
+        <item>মম কঠিন হৃদে মাগো হও অবস্থান।</item>
+        <item>হরি এস আসরে</item>
+        <item>হরি বিপদ ভঞ্জন শ্যাম গুনমনি </item>
+        <item>জয় জয় শান্তি হরিচাঁন</item>
+        <item>ডুবল দিনমণি এল রজনী</item>
+        <item>উঠরে যশবন্ত লাল</item>
+        <item>বেলা গেল হরি ঘরে চল</item>
+        <item>হরিচাঁদের অপার কীর্ত্তি বুঝিতে না পারি</item>
+        <item>গুরুবলে প্রাণে কাঁদে না কি করি উপায়</item>
+    </string-array>
+    <string-array name="Gan6">
+        <item>পৃষ্ঠা নং ১-২০</item>
+        <item>পৃষ্ঠা নং ২১-৪০</item>
+        <item>পৃষ্ঠা নং ৪১-৬০</item>
+        <item>পৃষ্ঠা নং ৬১-৮০</item>
+        <item>পৃষ্ঠা নং ৮১-১০০ </item>
+        <item>পৃষ্ঠা নং ১০১-১২০</item>
+        <item>পৃষ্ঠা নং ১২১-১৪০</item>
+        <item>পৃষ্ঠা নং ১৪১-১৬০</item>
+        <item>পৃষ্ঠা নং ১৬১-১৮০</item>
+        <item>পৃষ্ঠা নং ১৮১-২০০</item>
+        <item>পৃষ্ঠা নং ২০১-২২০</item>
+        <item>পৃষ্ঠা নং ২২১-২৪০</item>
+        <item>পৃষ্ঠা নং ২৪১-২৬০</item>
+        <item>পৃষ্ঠা নং ২৬১-২৮০</item>
+        <item>পৃষ্ঠা নং ২৮১-৩০০</item>
+        <item>পৃষ্ঠা নং ৩০১-৩২০</item>
+        <item>পৃষ্ঠা নং ৩২১-৩৪০</item>
+        <item>পৃষ্ঠা নং ৩৪১-৩৬০</item>
+        <item>পৃষ্ঠা নং ৩৫১-৩৮০</item>
+        <item>পৃষ্ঠা নং ৩৮১-৪০০</item>
+        <item>পৃষ্ঠা নং ৪০১-৪২০</item>
+        <item>পৃষ্ঠা নং ৪২১-৪৪০</item>
+        <item>পৃষ্ঠা নং ৪৪১-৪৬০</item>
+        <item>পৃষ্ঠা নং ৪৬১-৪৮০</item>
+        <item>পৃষ্ঠা নং ৪৮১-৫০০</item>
+        <item>পৃষ্ঠা নং ৫০১-৫২০</item>
+        <item>পৃষ্ঠা নং ৫২১-৫৪০</item>
+        <item>পৃষ্ঠা নং ৫৪১-৫৬০</item>
+        <item>পৃষ্ঠা নং ৫৬১-৫৮০</item>
+        <item>পৃষ্ঠা নং ৫৮১-৬০২ (শেষ)</item>
+    </string-array>
+    <string name="title_activity_matuya_mahotto">MatuyaMahotto</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="title_activity_add_mob">AddMob</string>
+
+
+</resources>
